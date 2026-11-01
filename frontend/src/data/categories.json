@@ -1,0 +1,9 @@
+[
+  {"slug": "acne", "name": "Acne", "description": "Breakouts, adult acne, and feeling seen on a bad skin day.", "sort_order": 1},
+  {"slug": "pigmentation", "name": "Pigmentation", "description": "Melasma, freckles, dark patches and uneven tone.", "sort_order": 2},
+  {"slug": "skin-tone", "name": "Skin tone", "description": "Growing up with ideas about shade, and unlearning them.", "sort_order": 3},
+  {"slug": "scars", "name": "Scars", "description": "Acne scars, healing marks and the stories they carry.", "sort_order": 4},
+  {"slug": "dark-circles", "name": "Dark circles", "description": "Shadows under the eyes, tiredness and being asked if you slept.", "sort_order": 5},
+  {"slug": "social-media-pressure", "name": "Social-media pressure", "description": "Filters, edited faces and comparing your day to someone's highlight.", "sort_order": 6},
+  {"slug": "appearance-insecurity", "name": "Appearance-related insecurity", "description": "The wider, quieter weight of feeling watched or not enough.", "sort_order": 7}
+]

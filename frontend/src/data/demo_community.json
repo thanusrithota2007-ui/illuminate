@@ -1,0 +1,1201 @@
+{
+ "label": "Synthetic demonstration data for the Illuminate hackathon prototype. Not real people, not real statistics.",
+ "version": 1,
+ "profiles": [
+  {
+   "id": "DEMO-0001",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "skin-tone",
+    "scars",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0002",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "skin-tone",
+    "scars",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0003",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "skin-tone",
+    "scars",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0004",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0005",
+   "eligible": true,
+   "categories": [
+    "acne"
+   ]
+  },
+  {
+   "id": "DEMO-0006",
+   "eligible": false,
+   "categories": [
+    "pigmentation",
+    "scars",
+    "dark-circles"
+   ]
+  },
+  {
+   "id": "DEMO-0007",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0008",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "scars",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0009",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "scars",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0010",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "skin-tone"
+   ]
+  },
+  {
+   "id": "DEMO-0011",
+   "eligible": true,
+   "categories": [
+    "pigmentation",
+    "skin-tone",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0012",
+   "eligible": false,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "skin-tone",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0013",
+   "eligible": true,
+   "categories": [
+    "pigmentation",
+    "skin-tone",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0014",
+   "eligible": true,
+   "categories": [
+    "pigmentation",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0015",
+   "eligible": true,
+   "categories": [
+    "pigmentation",
+    "scars",
+    "dark-circles",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0016",
+   "eligible": true,
+   "categories": [
+    "scars",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0017",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0018",
+   "eligible": false,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "scars",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0019",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0020",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0021",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "dark-circles",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0022",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "scars",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0023",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "scars",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0024",
+   "eligible": false,
+   "categories": [
+    "skin-tone",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0025",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0026",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "dark-circles",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0027",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0028",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0029",
+   "eligible": true,
+   "categories": [
+    "skin-tone",
+    "scars",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0030",
+   "eligible": false,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "scars",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0031",
+   "eligible": true,
+   "categories": [
+    "skin-tone",
+    "scars",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0032",
+   "eligible": true,
+   "categories": [
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0033",
+   "eligible": true,
+   "categories": [
+    "pigmentation",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0034",
+   "eligible": true,
+   "categories": [
+    "pigmentation",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0035",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0036",
+   "eligible": false,
+   "categories": [
+    "pigmentation",
+    "scars",
+    "dark-circles"
+   ]
+  },
+  {
+   "id": "DEMO-0037",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "scars",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0038",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "skin-tone",
+    "scars",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0039",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0040",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0041",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0042",
+   "eligible": false,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "skin-tone",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0043",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0044",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "scars",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0045",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "scars",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0046",
+   "eligible": true,
+   "categories": [
+    "pigmentation",
+    "skin-tone",
+    "dark-circles",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0047",
+   "eligible": true,
+   "categories": [
+    "pigmentation",
+    "skin-tone",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0048",
+   "eligible": false,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "scars",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0049",
+   "eligible": true,
+   "categories": [
+    "pigmentation",
+    "skin-tone",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0050",
+   "eligible": true,
+   "categories": [
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0051",
+   "eligible": true,
+   "categories": [
+    "scars",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0052",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "scars",
+    "dark-circles",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0053",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0054",
+   "eligible": false,
+   "categories": [
+    "skin-tone",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0055",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0056",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "skin-tone",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0057",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "skin-tone",
+    "scars"
+   ]
+  },
+  {
+   "id": "DEMO-0058",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "skin-tone",
+    "scars",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0059",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "scars",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0060",
+   "eligible": false,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "scars",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0061",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0062",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0063",
+   "eligible": true,
+   "categories": [
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0064",
+   "eligible": true,
+   "categories": [
+    "scars",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0065",
+   "eligible": true,
+   "categories": [
+    "skin-tone",
+    "scars",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0066",
+   "eligible": false,
+   "categories": [
+    "pigmentation",
+    "scars",
+    "dark-circles"
+   ]
+  },
+  {
+   "id": "DEMO-0067",
+   "eligible": true,
+   "categories": [
+    "pigmentation",
+    "skin-tone",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0068",
+   "eligible": true,
+   "categories": [
+    "pigmentation",
+    "skin-tone"
+   ]
+  },
+  {
+   "id": "DEMO-0069",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0070",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0071",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "scars",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0072",
+   "eligible": false,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "skin-tone",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0073",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "scars",
+    "dark-circles",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0074",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0075",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0076",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0077",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "skin-tone",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0078",
+   "eligible": false,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "scars",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0079",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "scars",
+    "dark-circles"
+   ]
+  },
+  {
+   "id": "DEMO-0080",
+   "eligible": true,
+   "categories": [
+    "pigmentation",
+    "scars",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0081",
+   "eligible": true,
+   "categories": [
+    "pigmentation",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0082",
+   "eligible": true,
+   "categories": [
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0083",
+   "eligible": true,
+   "categories": [
+    "skin-tone",
+    "dark-circles",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0084",
+   "eligible": false,
+   "categories": [
+    "skin-tone",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0085",
+   "eligible": true,
+   "categories": [
+    "skin-tone",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0086",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "scars",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0087",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "scars",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0088",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0089",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0090",
+   "eligible": false,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "scars",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0091",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0092",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0093",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "scars",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0094",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "scars",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0095",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0096",
+   "eligible": false,
+   "categories": [
+    "pigmentation",
+    "scars",
+    "dark-circles"
+   ]
+  },
+  {
+   "id": "DEMO-0097",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0098",
+   "eligible": true,
+   "categories": [
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0099",
+   "eligible": true,
+   "categories": [
+    "pigmentation",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0100",
+   "eligible": true,
+   "categories": [
+    "pigmentation",
+    "scars",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0101",
+   "eligible": true,
+   "categories": [
+    "pigmentation",
+    "skin-tone",
+    "scars",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0102",
+   "eligible": false,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "skin-tone",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0103",
+   "eligible": true,
+   "categories": [
+    "pigmentation",
+    "skin-tone",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0104",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "dark-circles",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0105",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0106",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0107",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "scars",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0108",
+   "eligible": false,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "scars",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0109",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "scars",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0110",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "dark-circles",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0111",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "skin-tone",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0112",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "skin-tone",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0113",
+   "eligible": true,
+   "categories": [
+    "acne",
+    "pigmentation",
+    "skin-tone",
+    "scars",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0114",
+   "eligible": false,
+   "categories": [
+    "skin-tone",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0115",
+   "eligible": true,
+   "categories": [
+    "scars",
+    "dark-circles",
+    "social-media-pressure"
+   ]
+  },
+  {
+   "id": "DEMO-0116",
+   "eligible": true,
+   "categories": [
+    "scars",
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0117",
+   "eligible": true,
+   "categories": [
+    "dark-circles",
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0118",
+   "eligible": true,
+   "categories": [
+    "social-media-pressure",
+    "appearance-insecurity"
+   ]
+  },
+  {
+   "id": "DEMO-0119",
+   "eligible": true,
+   "categories": []
+  },
+  {
+   "id": "DEMO-0120",
+   "eligible": false,
+   "categories": [
+    "acne",
+    "skin-tone",
+    "scars",
+    "dark-circles",
+    "appearance-insecurity"
+   ]
+  }
+ ]
+}

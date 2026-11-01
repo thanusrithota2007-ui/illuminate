@@ -1,0 +1,19 @@
+# Secrets: never bake into the image. Supply them as Render environment variables.
+.env
+.env.*
+*.env
+# Not needed at runtime
+tests/
+.pytest_cache/
+__pycache__/
+**/__pycache__/
+*.pyc
+.git
+.gitignore
+.dockerignore
+Dockerfile
+*.md
+.venv/
+venv/
+.vscode/
+.idea/
